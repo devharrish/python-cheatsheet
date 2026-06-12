@@ -2,6 +2,14 @@
 
 Arithmetic Operators are used to perform mathematical operations like addition, subtraction, multiplication, division etc.
 
++ : Addition
+- : Subtraction
+* : Multiplication
+/ : Division
+% : Modulus
+// : Floor Division
+** : Exponent
+
 '''
 
 #Addition
