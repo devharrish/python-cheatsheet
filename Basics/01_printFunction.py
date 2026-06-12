@@ -10,3 +10,12 @@ print("Hello World")
 #Using separate arguments
 
 print("Hello", "World", "!")
+
+'''
+
+Output:
+
+Hello World
+Hello World !
+
+'''
